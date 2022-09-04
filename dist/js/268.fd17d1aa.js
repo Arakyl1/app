@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknew"]=self["webpackChunknew"]||[]).push([[268],{8268:function(n,e,r){r.r(e),r.d(e,{default:function(){return a}});var u=r(6252);function t(n,e,r,t,c,i){const s=(0,u.up)("router-view");return(0,u.wg)(),(0,u.iD)("div",null,[(0,u.Wm)(s)])}var c={name:"BodyList"},i=r(3744);const s=(0,i.Z)(c,[["render",t]]);var a=s}}]);
+//# sourceMappingURL=268.fd17d1aa.js.map

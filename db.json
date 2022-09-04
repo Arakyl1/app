@@ -1,0 +1,2718 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Станок для заточки цепей",
+      "art": "HUTER ECS-100",
+      "maker": "HUTER",
+      "categor": "Инструмент",
+      "price": 2441,
+      "itemArt": 1129973,
+      "itemMod": 1129973,
+      "top": false,
+      "sale": true,
+      "news": false,
+      "availability": true,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "quantity": 15,
+      "ranting": 4.9,
+      "img": {
+        "small": "https://im.wampi.ru/2022/08/10/0-min.png",
+        "big": "https://ie.wampi.ru/2022/08/10/1210125_v02_b.jpg"
+      },
+      "reviews": [
+        {
+          "name": "Иван Абрамов",
+          "ranting": 4,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Иван Абрамов",
+          "ranting": 5,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Иван Абрамов",
+          "ranting": 5,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Иван Абрамов",
+          "ranting": 5,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        }
+      ],
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика1",
+              "value": "Значение1"
+            },
+            {
+              "name": "Характеристика2",
+              "value": "Значение2"
+            },
+            {
+              "name": "Характеристика3",
+              "value": "Значение3"
+            },
+            {
+              "name": "Характеристика4",
+              "value": "Значение4"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика5",
+              "value": "Значение5"
+            },
+            {
+              "name": "Характеристика6",
+              "value": "Значение6"
+            },
+            {
+              "name": "Характеристика7",
+              "value": "Значение7"
+            },
+            {
+              "name": "Характеристика8",
+              "value": "Значение8"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика9",
+              "value": "Значение9"
+            },
+            {
+              "name": "Характеристика10",
+              "value": "Значение10"
+            },
+            {
+              "name": "Характеристика11",
+              "value": "Значение11"
+            },
+            {
+              "name": "Характеристика12",
+              "value": "Значение12"
+            },
+            {
+              "name": "Характеристика13",
+              "value": "Значение13"
+            }
+          ]
+        }
+      ],
+      "description": "Резчик швов DIAM JRK-500/13.0L арт. 630058 -предназначендля нарезания швов в асфальте при дорожном строительстве и ремонте дорог, для нарезания температурных швов в бетоне, и проведения других строительных работ. Швонарезчик DIAM JRK-500/13.0L оснащен бензиновым двигателям LONCIN, модель 389cc. Использование алмазных дисков DIAM для сухой резки, позволяет резать материал без подачи воды."
+    },
+    {
+      "id": 2,
+      "name": "Сетевой шуруповерт",
+      "art": "Ресанта СШ-550-2",
+      "maker": "Ресанта",
+      "categor": "Инструмент",
+      "price": 2362,
+      "itemMod": 1129973,
+      "itemArt": 1129973,
+      "top": true,
+      "sale": true,
+      "news": false,
+      "availability": false,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "quantity": 0,
+      "ranting": 4,
+      "img": {
+        "small": "https://im.wampi.ru/2022/08/10/1-min.png",
+        "big": "https://ie.wampi.ru/2022/08/10/53650636.jpg"
+      },
+      "reviews": [
+        {
+          "name": "Иван Абрамов",
+          "ranting": 4,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Иван Абрамов",
+          "ranting": 3,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Иван Абрамов",
+          "ranting": 5,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        }
+      ],
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика1",
+              "value": "Значение1"
+            },
+            {
+              "name": "Характеристика2",
+              "value": "Значение2"
+            },
+            {
+              "name": "Характеристика3",
+              "value": "Значение3"
+            },
+            {
+              "name": "Характеристика4",
+              "value": "Значение4"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика5",
+              "value": "Значение5"
+            },
+            {
+              "name": "Характеристика6",
+              "value": "Значение6"
+            },
+            {
+              "name": "Характеристика7",
+              "value": "Значение7"
+            },
+            {
+              "name": "Характеристика8",
+              "value": "Значение8"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика9",
+              "value": "Значение9"
+            },
+            {
+              "name": "Характеристика10",
+              "value": "Значение10"
+            },
+            {
+              "name": "Характеристика11",
+              "value": "Значение11"
+            },
+            {
+              "name": "Характеристика12",
+              "value": "Значение12"
+            },
+            {
+              "name": "Характеристика13",
+              "value": "Значение13"
+            }
+          ]
+        }
+      ],
+      "description": "Резчик швов DIAM JRK-500/13.0L арт. 630058 -предназначендля нарезания швов в асфальте при дорожном строительстве и ремонте дорог, для нарезания температурных швов в бетоне, и проведения других строительных работ. Швонарезчик DIAM JRK-500/13.0L оснащен бензиновым двигателям LONCIN, модель 389cc. Использование алмазных дисков DIAM для сухой резки, позволяет резать материал без подачи воды."
+    },
+    {
+      "id": 3,
+      "name": "Стабилизатор напряжения",
+      "art": "РЕСАНТА АСН-600/1-И",
+      "maker": "Ресанта",
+      "categor": "Блоки контроля",
+      "price": 7185,
+      "itemArt": 1129973,
+      "itemMod": 1129973,
+      "top": true,
+      "sale": false,
+      "news": true,
+      "availability": true,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "quantity": 15,
+      "ranting": 4.1,
+      "img": {
+        "small": "https://ie.wampi.ru/2022/08/10/2-min.png",
+        "big": "https://im.wampi.ru/2022/08/10/70bcf2243744e731872c9d89873dc773.jpg"
+      },
+      "reviews": [
+        {
+          "name": "Иван Абрамов",
+          "ranting": 4,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Иван Абрамов",
+          "ranting": 4,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        }
+      ],
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика1",
+              "value": "Значение1"
+            },
+            {
+              "name": "Характеристика2",
+              "value": "Значение2"
+            },
+            {
+              "name": "Характеристика3",
+              "value": "Значение3"
+            },
+            {
+              "name": "Характеристика4",
+              "value": "Значение4"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика5",
+              "value": "Значение5"
+            },
+            {
+              "name": "Характеристика6",
+              "value": "Значение6"
+            },
+            {
+              "name": "Характеристика7",
+              "value": "Значение7"
+            },
+            {
+              "name": "Характеристика8",
+              "value": "Значение8"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика9",
+              "value": "Значение9"
+            },
+            {
+              "name": "Характеристика10",
+              "value": "Значение10"
+            },
+            {
+              "name": "Характеристика11",
+              "value": "Значение11"
+            },
+            {
+              "name": "Характеристика12",
+              "value": "Значение12"
+            },
+            {
+              "name": "Характеристика13",
+              "value": "Значение13"
+            }
+          ]
+        }
+      ],
+      "description": "Резчик швов DIAM JRK-500/13.0L арт. 630058 -предназначендля нарезания швов в асфальте при дорожном строительстве и ремонте дорог, для нарезания температурных швов в бетоне, и проведения других строительных работ. Швонарезчик DIAM JRK-500/13.0L оснащен бензиновым двигателям LONCIN, модель 389cc. Использование алмазных дисков DIAM для сухой резки, позволяет резать материал без подачи воды."
+    },
+    {
+      "id": 4,
+      "name": "Резчик швов",
+      "art": "DIAM JRK-500/13.0L 630058",
+      "maker": "DIAM",
+      "categor": "Инструмент",
+      "price": 93200,
+      "itemArt": 1129973,
+      "itemMod": 1129973,
+      "top": true,
+      "sale": true,
+      "news": false,
+      "availability": true,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "quantity": 15,
+      "ranting": 3.7,
+      "img": {
+        "small": "https://ie.wampi.ru/2022/08/10/3-min.png",
+        "big": "https://ie.wampi.ru/2022/08/10/12018261-450x450.png"
+      },
+      "reviews": [
+        {
+          "name": "Иван Абрамов",
+          "ranting": 3,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        }
+      ],
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика1",
+              "value": "Значение1"
+            },
+            {
+              "name": "Характеристика2",
+              "value": "Значение2"
+            },
+            {
+              "name": "Характеристика3",
+              "value": "Значение3"
+            },
+            {
+              "name": "Характеристика4",
+              "value": "Значение4"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика5",
+              "value": "Значение5"
+            },
+            {
+              "name": "Характеристика6",
+              "value": "Значение6"
+            },
+            {
+              "name": "Характеристика7",
+              "value": "Значение7"
+            },
+            {
+              "name": "Характеристика8",
+              "value": "Значение8"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика9",
+              "value": "Значение9"
+            },
+            {
+              "name": "Характеристика10",
+              "value": "Значение10"
+            },
+            {
+              "name": "Характеристика11",
+              "value": "Значение11"
+            },
+            {
+              "name": "Характеристика12",
+              "value": "Значение12"
+            },
+            {
+              "name": "Характеристика13",
+              "value": "Значение13"
+            }
+          ]
+        }
+      ],
+      "description": "Резчик швов DIAM JRK-500/13.0L арт. 630058 -предназначендля нарезания швов в асфальте при дорожном строительстве и ремонте дорог, для нарезания температурных швов в бетоне, и проведения других строительных работ. Швонарезчик DIAM JRK-500/13.0L оснащен бензиновым двигателям LONCIN, модель 389cc. Использование алмазных дисков DIAM для сухой резки, позволяет резать материал без подачи воды."
+    },
+    {
+      "id": 5,
+      "name": "Электрическая пушка",
+      "art": "РЕСАНТА ТЭПК-3000K",
+      "maker": "Ресанта",
+      "categor": "Инструмент",
+      "price": 3007,
+      "itemArt": 1129973,
+      "itemMod": 1129973,
+      "top": true,
+      "news": false,
+      "sale": true,
+      "availability": true,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "quantity": 15,
+      "ranting": 4.5,
+      "img": {
+        "small": "https://im.wampi.ru/2022/08/10/4-min.png",
+        "big": "https://ie.wampi.ru/2022/08/10/53937213.jpg"
+      },
+      "reviews": [
+        {
+          "name": "Иван Абрамов",
+          "ranting": 4,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Иван Абрамов",
+          "ranting": 5,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Иван Абрамов",
+          "ranting": 5,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Иван Абрамов",
+          "ranting": 4,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        }
+      ],
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика1",
+              "value": "Значение1"
+            },
+            {
+              "name": "Характеристика2",
+              "value": "Значение2"
+            },
+            {
+              "name": "Характеристика3",
+              "value": "Значение3"
+            },
+            {
+              "name": "Характеристика4",
+              "value": "Значение4"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика5",
+              "value": "Значение5"
+            },
+            {
+              "name": "Характеристика6",
+              "value": "Значение6"
+            },
+            {
+              "name": "Характеристика7",
+              "value": "Значение7"
+            },
+            {
+              "name": "Характеристика8",
+              "value": "Значение8"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика9",
+              "value": "Значение9"
+            },
+            {
+              "name": "Характеристика10",
+              "value": "Значение10"
+            },
+            {
+              "name": "Характеристика11",
+              "value": "Значение11"
+            },
+            {
+              "name": "Характеристика12",
+              "value": "Значение12"
+            },
+            {
+              "name": "Характеристика13",
+              "value": "Значение13"
+            }
+          ]
+        }
+      ],
+      "description": "Резчик швов DIAM JRK-500/13.0L арт. 630058 -предназначендля нарезания швов в асфальте при дорожном строительстве и ремонте дорог, для нарезания температурных швов в бетоне, и проведения других строительных работ. Швонарезчик DIAM JRK-500/13.0L оснащен бензиновым двигателям LONCIN, модель 389cc. Использование алмазных дисков DIAM для сухой резки, позволяет резать материал без подачи воды."
+    },
+    {
+      "id": 6,
+      "name": "Станок камнерезный",
+      "art": "Nuova Battipav SUPREME ",
+      "maker": "Nuova",
+      "categor": "Инструмент",
+      "price": 265590,
+      "itemArt": 1129973,
+      "itemMod": 1129973,
+      "top": true,
+      "sale": false,
+      "news": true,
+      "availability": false,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "quantity": 0,
+      "ranting": 4.2,
+      "img": {
+        "small": "https://im.wampi.ru/2022/08/10/5-min.png",
+        "big": "https://im.wampi.ru/2022/08/10/792b6afeed2b53f7908523381f5107cb.jpg"
+      },
+      "reviews": [
+        {
+          "name": "Иван Абрамов",
+          "ranting": 5,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        }
+      ],
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика1",
+              "value": "Значение1"
+            },
+            {
+              "name": "Характеристика2",
+              "value": "Значение2"
+            },
+            {
+              "name": "Характеристика3",
+              "value": "Значение3"
+            },
+            {
+              "name": "Характеристика4",
+              "value": "Значение4"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика5",
+              "value": "Значение5"
+            },
+            {
+              "name": "Характеристика6",
+              "value": "Значение6"
+            },
+            {
+              "name": "Характеристика7",
+              "value": "Значение7"
+            },
+            {
+              "name": "Характеристика8",
+              "value": "Значение8"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика9",
+              "value": "Значение9"
+            },
+            {
+              "name": "Характеристика10",
+              "value": "Значение10"
+            },
+            {
+              "name": "Характеристика11",
+              "value": "Значение11"
+            },
+            {
+              "name": "Характеристика12",
+              "value": "Значение12"
+            },
+            {
+              "name": "Характеристика13",
+              "value": "Значение13"
+            }
+          ]
+        }
+      ],
+      "description": "Резчик швов DIAM JRK-500/13.0L арт. 630058 -предназначендля нарезания швов в асфальте при дорожном строительстве и ремонте дорог, для нарезания температурных швов в бетоне, и проведения других строительных работ. Швонарезчик DIAM JRK-500/13.0L оснащен бензиновым двигателям LONCIN, модель 389cc. Использование алмазных дисков DIAM для сухой резки, позволяет резать материал без подачи воды."
+    },
+    {
+      "id": 7,
+      "name": "Фрезерная машина",
+      "art": "Ресанта ФМ-1300Э",
+      "maker": "Ресанта",
+      "categor": "Инструмент",
+      "price": 3849,
+      "itemArt": 1129973,
+      "itemMod": 1129973,
+      "top": true,
+      "sale": false,
+      "news": false,
+      "availability": false,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "quantity": 0,
+      "ranting": 0,
+      "img": {
+        "small": "https://ie.wampi.ru/2022/08/10/6-min.png",
+        "big": "https://ie.wampi.ru/2022/08/10/1436c086cf80911f5.jpg"
+      },
+      "reviews": [],
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика1",
+              "value": "Значение1"
+            },
+            {
+              "name": "Характеристика2",
+              "value": "Значение2"
+            },
+            {
+              "name": "Характеристика3",
+              "value": "Значение3"
+            },
+            {
+              "name": "Характеристика4",
+              "value": "Значение4"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика5",
+              "value": "Значение5"
+            },
+            {
+              "name": "Характеристика6",
+              "value": "Значение6"
+            },
+            {
+              "name": "Характеристика7",
+              "value": "Значение7"
+            },
+            {
+              "name": "Характеристика8",
+              "value": "Значение8"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика9",
+              "value": "Значение9"
+            },
+            {
+              "name": "Характеристика10",
+              "value": "Значение10"
+            },
+            {
+              "name": "Характеристика11",
+              "value": "Значение11"
+            },
+            {
+              "name": "Характеристика12",
+              "value": "Значение12"
+            },
+            {
+              "name": "Характеристика13",
+              "value": "Значение13"
+            }
+          ]
+        }
+      ],
+      "description": "Резчик швов DIAM JRK-500/13.0L арт. 630058 -предназначендля нарезания швов в асфальте при дорожном строительстве и ремонте дорог, для нарезания температурных швов в бетоне, и проведения других строительных работ. Швонарезчик DIAM JRK-500/13.0L оснащен бензиновым двигателям LONCIN, модель 389cc. Использование алмазных дисков DIAM для сухой резки, позволяет резать материал без подачи воды."
+    },
+    {
+      "id": 8,
+      "name": "Бензоножницы",
+      "art": "Echo HCR-165ES",
+      "maker": "Echo",
+      "categor": "Садовая техника",
+      "price": 44700,
+      "itemArt": 1129973,
+      "itemMod": 1129973,
+      "top": true,
+      "sale": false,
+      "news": true,
+      "availability": true,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "quantity": 15,
+      "ranting": 4,
+      "img": {
+        "small": "https://ie.wampi.ru/2022/08/10/7-min.png",
+        "big": "https://im.wampi.ru/2022/08/10/51821309.jpg"
+      },
+      "reviews": [
+        {
+          "name": "Иван Абрамов",
+          "ranting": 4,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Иван Абрамов",
+          "ranting": 4,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        }
+      ],
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика1",
+              "value": "Значение1"
+            },
+            {
+              "name": "Характеристика2",
+              "value": "Значение2"
+            },
+            {
+              "name": "Характеристика3",
+              "value": "Значение3"
+            },
+            {
+              "name": "Характеристика4",
+              "value": "Значение4"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика5",
+              "value": "Значение5"
+            },
+            {
+              "name": "Характеристика6",
+              "value": "Значение6"
+            },
+            {
+              "name": "Характеристика7",
+              "value": "Значение7"
+            },
+            {
+              "name": "Характеристика8",
+              "value": "Значение8"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика9",
+              "value": "Значение9"
+            },
+            {
+              "name": "Характеристика10",
+              "value": "Значение10"
+            },
+            {
+              "name": "Характеристика11",
+              "value": "Значение11"
+            },
+            {
+              "name": "Характеристика12",
+              "value": "Значение12"
+            },
+            {
+              "name": "Характеристика13",
+              "value": "Значение13"
+            }
+          ]
+        }
+      ],
+      "description": "Резчик швов DIAM JRK-500/13.0L арт. 630058 -предназначендля нарезания швов в асфальте при дорожном строительстве и ремонте дорог, для нарезания температурных швов в бетоне, и проведения других строительных работ. Швонарезчик DIAM JRK-500/13.0L оснащен бензиновым двигателям LONCIN, модель 389cc. Использование алмазных дисков DIAM для сухой резки, позволяет резать материал без подачи воды."
+    },
+    {
+      "id": 9,
+      "name": "Алмазный диск (круг)",
+      "art": "DIAM Master Line",
+      "maker": "DIAM",
+      "categor": "Инструмент",
+      "price": 1680,
+      "itemArt": 1129973,
+      "itemMod": 1129973,
+      "top": true,
+      "sale": false,
+      "news": true,
+      "availability": false,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "quantity": 0,
+      "ranting": 5,
+      "img": {
+        "small": "https://im.wampi.ru/2022/08/10/8-min.png",
+        "big": "https://im.wampi.ru/2022/08/10/52234411-2-min.jpg"
+      },
+      "reviews": [
+        {
+          "name": "Иван Абрамов",
+          "ranting": 5,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Иван Абрамов",
+          "ranting": 5,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        }
+      ],
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика1",
+              "value": "Значение1"
+            },
+            {
+              "name": "Характеристика2",
+              "value": "Значение2"
+            },
+            {
+              "name": "Характеристика3",
+              "value": "Значение3"
+            },
+            {
+              "name": "Характеристика4",
+              "value": "Значение4"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика5",
+              "value": "Значение5"
+            },
+            {
+              "name": "Характеристика6",
+              "value": "Значение6"
+            },
+            {
+              "name": "Характеристика7",
+              "value": "Значение7"
+            },
+            {
+              "name": "Характеристика8",
+              "value": "Значение8"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика9",
+              "value": "Значение9"
+            },
+            {
+              "name": "Характеристика10",
+              "value": "Значение10"
+            },
+            {
+              "name": "Характеристика11",
+              "value": "Значение11"
+            },
+            {
+              "name": "Характеристика12",
+              "value": "Значение12"
+            },
+            {
+              "name": "Характеристика13",
+              "value": "Значение13"
+            }
+          ]
+        }
+      ],
+      "description": "Резчик швов DIAM JRK-500/13.0L арт. 630058 -предназначендля нарезания швов в асфальте при дорожном строительстве и ремонте дорог, для нарезания температурных швов в бетоне, и проведения других строительных работ. Швонарезчик DIAM JRK-500/13.0L оснащен бензиновым двигателям LONCIN, модель 389cc. Использование алмазных дисков DIAM для сухой резки, позволяет резать материал без подачи воды."
+    },
+    {
+      "id": 10,
+      "name": "Электрический рубанок",
+      "art": "Вихрь Р-82СТ 72/5/3",
+      "maker": "Вихрь",
+      "categor": "Инструмент",
+      "price": 5129,
+      "itemArt": 1129973,
+      "itemMod": 1129973,
+      "top": true,
+      "sale": false,
+      "news": false,
+      "availability": true,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "quantity": 12,
+      "ranting": 3,
+      "img": {
+        "small": "https://im.wampi.ru/2022/08/10/9-min.png",
+        "big": "https://ie.wampi.ru/2022/08/10/13cf53b0_87e3_11eb_9dd5_002590964e37_0.jpg"
+      },
+      "reviews": [
+        {
+          "name": "Иван Абрамов",
+          "ranting": 3,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        }
+      ],
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика1",
+              "value": "Значение1"
+            },
+            {
+              "name": "Характеристика2",
+              "value": "Значение2"
+            },
+            {
+              "name": "Характеристика3",
+              "value": "Значение3"
+            },
+            {
+              "name": "Характеристика4",
+              "value": "Значение4"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика5",
+              "value": "Значение5"
+            },
+            {
+              "name": "Характеристика6",
+              "value": "Значение6"
+            },
+            {
+              "name": "Характеристика7",
+              "value": "Значение7"
+            },
+            {
+              "name": "Характеристика8",
+              "value": "Значение8"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Характеристика9",
+              "value": "Значение9"
+            },
+            {
+              "name": "Характеристика10",
+              "value": "Значение10"
+            },
+            {
+              "name": "Характеристика11",
+              "value": "Значение11"
+            },
+            {
+              "name": "Характеристика12",
+              "value": "Значение12"
+            },
+            {
+              "name": "Характеристика13",
+              "value": "Значение13"
+            }
+          ]
+        }
+      ],
+      "description": "Резчик швов DIAM JRK-500/13.0L арт. 630058 -предназначендля нарезания швов в асфальте при дорожном строительстве и ремонте дорог, для нарезания температурных швов в бетоне, и проведения других строительных работ. Швонарезчик DIAM JRK-500/13.0L оснащен бензиновым двигателям LONCIN, модель 389cc. Использование алмазных дисков DIAM для сухой резки, позволяет резать материал без подачи воды."
+    },
+    {
+      "id": 11,
+      "name": "Триммер бензиновый",
+      "art": "HYUNDAI Z 557",
+      "maker": "HYUNDAI",
+      "categor": "Садовая техника",
+      "subcategor": "",
+      "price": 14570,
+      "itemArt": 235325,
+      "itemMod": 1.319801,
+      "top": false,
+      "sale": false,
+      "news": true,
+      "quantity": 54,
+      "availability": true,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "ranting": 4,
+      "reviews": [
+        {
+          "name": "Иван Абрамов",
+          "ranting": 4,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        },
+        {
+          "name": "Иван Абрамов",
+          "ranting": 4,
+          "img": "https://ie.wampi.ru/2022/08/02/Ivan_Abramov.png",
+          "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+        }
+      ],
+      "description": " Мощный двигатель и богатая оснастка позволяет не только подкашивать траву в труднодоступных местах, но бороться с многолетними сорняками, и даже дикорастущими кустарниками.\nОригинальный двигатель HYUNDAI - карбюратор, цилиндро-поршневая группа, шатун - профессиональной серии.\nСпециальный облегченный запуск - система EASY HI - в два раза меньше усилий, чтобы завести косу.\nИнновационный редуктор - система “одного нажатия”, позволяет заменять головку, нож или диск без дополнительных инструментов.\nАнтивибрационный верхний редуктор увеличенного размера.\nСистема фильтрации воздуха - 2-х ступенчатая, пэубой и тонкой очистки, позволяет сделать топливную смесь при поступлении в карбюратор максимально чистой.\nЭксклюзивная ручка газа - получайте удовольствие от работы.\nУвеличенная толщина пластика защиты моторного отсека соответствует стандартам для профессионального оборудования.\nШирокая пластиковая защита топливного бака позволяет избежать облома ушей крепления при ударах об землю.\nУсиленная антивибрационная катушка с металлическим сердечником - заправлена витой леской и не требует разбора для ее замены.",
+      "img": {
+        "small": "https://ie.wampi.ru/2022/08/16/c283e3bae15d03e65d3715493f2e4859-PhotoRoom.png",
+        "big": "https://ie.wampi.ru/2022/08/16/c283e3bae15d03e65d3715493f2e4859-PhotoRoom.png"
+      },
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Тип",
+              "value": "триммер бензиновый"
+            },
+            {
+              "name": "Расположение двигателя",
+              "value": "верняя"
+            },
+            {
+              "name": "Тип ручки",
+              "value": "велосипедная (U-образная)"
+            },
+            {
+              "name": "Штанга",
+              "value": "прямая"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "В комплекте",
+              "value": "кожух плечевой ремень"
+            },
+            {
+              "name": "Вес",
+              "value": "7.8 кг"
+            },
+            {
+              "name": "Мощность двигателя",
+              "value": "1690Вт"
+            },
+            {
+              "name": "Рабочий объём двигателя",
+              "value": "52 см³"
+            },
+            {
+              "name": "Емкость топливного бака",
+              "value": "1.1л"
+            },
+            {
+              "name": "Скорость вращения",
+              "value": "9900 об/мин"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Режущая система",
+              "value": "леска металлический диск"
+            },
+            {
+              "name": "Подача лески",
+              "value": "полуавтоматическая"
+            },
+            {
+              "name": "Макс. ширина среза",
+              "value": "43 см"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Легкий пуск",
+              "value": "да"
+            },
+            {
+              "name": "Ременная оснастка",
+              "value": "да"
+            },
+            {
+              "name": "Антивибрационная система",
+              "value": "да"
+            },
+            {
+              "name": "Регулировка угла наклона",
+              "value": "да"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Ширина",
+              "value": "30 см"
+            },
+            {
+              "name": "Длина",
+              "value": "30 см"
+            },
+            {
+              "name": "Высота",
+              "value": "30 см"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Генератор бензиновый",
+      "art": "MIKKELI GX 3500",
+      "maker": "MIKKELI",
+      "categor": "Генераторы",
+      "subcategor": "",
+      "price": 23780,
+      "itemArt": 2352352,
+      "itemMod": 1.249008,
+      "top": false,
+      "sale": true,
+      "news": false,
+      "quantity": 34,
+      "availability": true,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "ranting": 0,
+      "reviews": [],
+      "description": "Бензиновый генератор MIKKELI GX 3500 используется для выработки электроэнергии в бытовых и хозяйственных нуждах. Запуск производится от сети либо вручную. Двигатель в 7.5 л.с. обеспечивает мощность в 3,4 кВт. Воздушная система охлаждения позволяет использовать генератор в помещениях и на улице. Емкость бака – 15 литров.",
+      "img": {
+        "small": "https://im.wampi.ru/2022/08/16/a0aec54879bfc37378a72cfa169b1e85.png",
+        "big": "https://im.wampi.ru/2022/08/16/a0aec54879bfc37378a72cfa169b1e85.png"
+      },
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Тип",
+              "value": "бензиновый генератор"
+            },
+            {
+              "name": "Исполнение",
+              "value": "открытое"
+            },
+            {
+              "name": "Максимальная мощность",
+              "value": "3.4 кВт"
+            },
+            {
+              "name": "Номинальная мощность",
+              "value": "3.1 кВт"
+            },
+            {
+              "name": "Число фаз",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Колеса для транспортировки",
+              "value": "нет"
+            },
+            {
+              "name": "Время непрерывной работы",
+              "value": "9 ч"
+            },
+            {
+              "name": "Авторегулятор оборотов",
+              "value": "нет"
+            },
+            {
+              "name": "Конструкция двигателя",
+              "value": "четырехтактный"
+            },
+            {
+              "name": "Объем двигателя",
+              "value": "208 см³"
+            },
+            {
+              "name": "Емкость топливного бак",
+              "value": "15 л"
+            },
+            {
+              "name": "Емкость масляного бака",
+              "value": "0.6 л"
+            },
+            {
+              "name": "Запуск",
+              "value": "ручной"
+            },
+            {
+              "name": "Система автозапуска (ATS)",
+              "value": "нет"
+            },
+            {
+              "name": "Охлаждение",
+              "value": "воздушное"
+            }
+          ]
+        },
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Тип генератора",
+              "value": "синхронный"
+            },
+            {
+              "name": "Защита от перегрузки",
+              "value": "нет"
+            },
+            {
+              "name": "Ширина",
+              "value": "620 мм"
+            },
+            {
+              "name": "Высота",
+              "value": "450 мм"
+            },
+            {
+              "name": "Вес",
+              "value": "38 кг"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Дрель-шуруповерт",
+      "art": "Bosch GSR 180-LI Professional 06019F8109",
+      "maker": "Bosch ",
+      "categor": "Инструмент",
+      "subcategor": "дрель-шуруповерт",
+      "price": 13600,
+      "itemArt": 2626323,
+      "itemMod": 1.278671,
+      "top": false,
+      "sale": false,
+      "news": true,
+      "quantity": 34,
+      "availability": true,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "ranting": 0,
+      "reviews": [],
+      "description": "Дрель шуруповерт BOSCH 180Li обладает эргономичной формой, благодаря которой инструмент удобно и легко использовать. Легкий вес 1600 г и прорезиненная ручка позволяют длительное время работать с инструментом не перегружая руки. Питание шуруповерта обеспечивает литий-ионный аккумулятор 2,0 Ач, идущий в комплекте с зарядным устройством и дополнительной батареей. Инструмент продается в пластиковом чемодане.",
+      "img": {
+        "small": "https://im.wampi.ru/2022/08/19/393b52f7b61598f4b2b676b360acf7bf.png",
+        "big": "https://im.wampi.ru/2022/08/19/393b52f7b61598f4b2b676b360acf7bf.png"
+      },
+      "characteristic": [
+        {
+          "name": "Основный",
+          "content": [
+            {
+              "name": "Тип",
+              "value": "дрель-шуруповерт"
+            },
+            {
+              "name": "Мощность",
+              "value": "1350 Вт"
+            },
+            {
+              "name": "Питание",
+              "value": "аккумулятор"
+            },
+            {
+              "name": "Патрон",
+              "value": "быстрозажимной"
+            },
+            {
+              "name": "Скорость вращения",
+              "value": "1700 об/мин"
+            },
+            {
+              "name": "Крутящиц момент",
+              "value": "54 Н·м"
+            },
+            {
+              "name": "Функция удара",
+              "value": "нет"
+            },
+            {
+              "name": "Режимы скорости вращения",
+              "value": "2"
+            },
+            {
+              "name": "Регулировка оборотов",
+              "value": "да"
+            },
+            {
+              "name": "Регулировка крутящего момента",
+              "value": "21"
+            },
+            {
+              "name": "Диаметр патрона",
+              "value": "1.5 — 13 мм"
+            }
+          ]
+        },
+        {
+          "name": "Дополнительные",
+          "content": [
+            {
+              "name": "Биты (насадки-отвертки)",
+              "value": "нет"
+            },
+            {
+              "name": "Максимальный диаметр сверления, дерево",
+              "value": "35 мм"
+            },
+            {
+              "name": "Максимальный диаметр сверления, металл",
+              "value": "10 мм"
+            },
+            {
+              "name": "Максимальный диаметр сверления, бетон",
+              "value": "10 мм"
+            },
+            {
+              "name": "Подсветка",
+              "value": "да"
+            },
+            {
+              "name": "Бесщеточный двигатель",
+              "value": "нет"
+            },
+            {
+              "name": "Реверс",
+              "value": "нет"
+            },
+            {
+              "name": "Фонарь",
+              "value": "нет"
+            },
+            {
+              "name": "Фиксация кнопки включения",
+              "value": "нет"
+            },
+            {
+              "name": "Пылесборник",
+              "value": "нет"
+            },
+            {
+              "name": "Дополнительная рукоятка",
+              "value": "нет"
+            },
+            {
+              "name": "Сверла",
+              "value": "нет"
+            },
+            {
+              "name": "Адаптер для бит",
+              "value": "нет"
+            },
+            {
+              "name": "Время зарядки",
+              "value": "1 ч"
+            },
+            {
+              "name": "Зарядное устройство",
+              "value": "да"
+            },
+            {
+              "name": "Аккумулятор в комплекте",
+              "value": "да"
+            },
+            {
+              "name": "Комплектация",
+              "value": "зарядное устройство"
+            },
+            {
+              "name": "Тип акумулятора",
+              "value": "Li-ion"
+            },
+            {
+              "name": "Напряжение",
+              "value": "18 В"
+            },
+            {
+              "name": "Индикатор уровня заряда аккумулятора",
+              "value": "да"
+            }
+          ]
+        },
+        {
+          "name": "Дополнительные",
+          "content": [
+            {
+              "name": "Длина",
+              "value": "198 мм"
+            },
+            {
+              "name": "Ширина",
+              "value": "62 мм"
+            },
+            {
+              "name": "Высота",
+              "value": "225 мм"
+            },
+            {
+              "name": "Вес",
+              "value": "1.6 кг"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Перфоратор",
+      "art": " Makita HR 2470",
+      "maker": "Makita",
+      "categor": "Инструмент",
+      "subcategor": "Перфоратор",
+      "price": 21040,
+      "itemArt": "1.149453",
+      "itemMod": "2323523",
+      "quantity": 98,
+      "description": "Makita HR 2470 - профессиональный 3-режимный перфоратор. Мощность - 780 Вт, масса - 2,8 кг. Плавное изменение скорости вращения на модели производится через кнопку включения с электронной регулировкой числа оборотов. Имеется возможность установить плоское долото в одно из 40 положений. Рукоятка и корпус редуктора с мягкой резиновой накладкой обеспечивает полный контроль над инструментом и предотвращают механические воздействия.",
+      "img": {
+        "small": "https://ie.wampi.ru/2022/08/21/951f2fb952687e9203413a9e72a018ca.png",
+        "big": "https://ie.wampi.ru/2022/08/21/951f2fb952687e9203413a9e72a018ca.png"
+      },
+      "characteristic": [
+        {
+          "name": "Основные характеристики",
+          "content": [
+            {
+              "name": "Тип",
+              "value": "профессиональный перфоратор"
+            },
+            {
+              "name": "Питание",
+              "value": "сеть"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "долбление сверление сверление с ударом"
+            },
+            {
+              "name": "Мощность",
+              "value": "780 Вт"
+            },
+            {
+              "name": "Патрон",
+              "value": "SDS-plus"
+            },
+            {
+              "name": "Скорость вращения",
+              "value": "1100 об/мин"
+            },
+            {
+              "name": "Частота ударов",
+              "value": "4500 BPM"
+            },
+            {
+              "name": "Энергия удара",
+              "value": "2.7 Дж"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "4 м"
+            }
+          ]
+        },
+        {
+          "name": "Технические характеристики",
+          "content": [
+            {
+              "name": "Максимальный диаметр сверления, металл",
+              "value": "13 мм"
+            },
+            {
+              "name": "Максимальный диаметр сверления, бетон",
+              "value": "24 мм"
+            },
+            {
+              "name": "Максимальный диаметр сверления, дерево",
+              "value": "32 мм"
+            }
+          ]
+        },
+        {
+          "name": "Функциональные особенности",
+          "content": [
+            {
+              "name": "Реверс",
+              "value": "есть"
+            },
+            {
+              "name": "Дополнительная рукоятка",
+              "value": "есть"
+            },
+            {
+              "name": "Противовибрационная защита",
+              "value": "нет"
+            },
+            {
+              "name": "Ограничитель глубины сверлени",
+              "value": "есть"
+            },
+            {
+              "name": "Предохранительная муфта",
+              "value": "есть"
+            },
+            {
+              "name": "Штатив",
+              "value": "нет"
+            },
+            {
+              "name": "Зарядное устройство",
+              "value": "нет"
+            },
+            {
+              "name": "Фиксация кнопки включения",
+              "value": "есть"
+            },
+            {
+              "name": "Пылесборник",
+              "value": "нет"
+            },
+            {
+              "name": "Подсветка",
+              "value": "есть"
+            }
+          ]
+        },
+        {
+          "name": "Комплектация",
+          "content": [
+            {
+              "name": "Кейс",
+              "value": "есть"
+            },
+            {
+              "name": "Зубило (пика)",
+              "value": "нет"
+            },
+            {
+              "name": "Быстрозажимной патрон",
+              "value": "нет"
+            },
+            {
+              "name": "Комплектация",
+              "value": "боковая рукоятка ограничитель глубины чемодан"
+            }
+          ]
+        },
+        {
+          "name": "Габариты и вес",
+          "content": [
+            {
+              "name": "Длина",
+              "value": "370 мм"
+            },
+            {
+              "name": "Ширина",
+              "value": "84 мм"
+            },
+            {
+              "name": "Высота",
+              "value": "214 мм"
+            },
+            {
+              "name": "Вес\t",
+              "value": "2600 гр"
+            }
+          ]
+        }
+      ],
+      "availability": true,
+      "pick-up": true,
+      "under-the-order": true,
+      "delivery": true,
+      "ranting": 0,
+      "reviews": []
+    }
+  ],
+  "length_items": {
+    "length": 14
+  },
+  "select_menu": [
+    {
+      "name": "Каталог",
+      "children": [
+        {
+          "name": "Аккумуляторы",
+          "children": [
+            {
+              "name": "Подкатегория1",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Блоки контроля",
+          "children": [
+            {
+              "name": "Подкатегория2",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Генераторы",
+          "children": [
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Климатическая техника",
+          "children": [
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Отопление",
+          "children": [
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Перфораторы",
+          "children": [
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Провода",
+          "children": [
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Люстры",
+          "children": [
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Садовая техника",
+          "children": [
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Инструмент",
+          "children": [
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            },
+            {
+              "name": "Подкатегория",
+              "children": [
+                {
+                  "name": "Подкатегория"
+                },
+                {
+                  "name": "Подкатегория"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "slader": [
+    {
+      "title": "Электро-Бензо инструмент",
+      "color": "#ffffff",
+      "slogan": "большой выбор и хорошие цены",
+      "id": 1,
+      "img": { "big": "https://ic.wampi.ru/2022/07/29/1.jpg", "small": "https://ie.wampi.ru/2022/08/29/sla1-min.jpg"}
+    },
+    {
+      "title": "Сильнее Снегопада",
+      "color": "#9C9C9C",
+      "slogan": "Большой выбор снегоуборочных машин. Качественные устройства для любого бюджета",
+      "id": 2,
+      "img": { "big": "https://ie.wampi.ru/2022/07/29/3.jpg", "small": "https://im.wampi.ru/2022/08/29/sla2-min.jpg"}
+    },
+    {
+      "title": "FUBAG ГЕНЕРАТОРЫ",
+      "color": "#9C9C9C",
+      "slogan": "FUBAG предлагает широкий набор опций для увеличения функциональности и мобильности генераторов",
+      "id": 3,
+      "img": { "big": "https://ic.wampi.ru/2022/07/29/2.jpg", "small": "https://im.wampi.ru/2022/08/29/sla3-min.png"}
+    }
+  ],
+  "producer": [
+    "HUTER",
+    "Ресанта",
+    "Echo",
+    "DIAM",
+    "Nuova",
+    "Вихрь"
+  ],
+  "shop": [
+    {
+      "addres": "141554  Россия, Московская область, Солнечногорский городской округ, д.Коньково, д. 99 Павильон №1",
+      "img": "https://im.wampi.ru/2022/08/03/1.jpg",
+      "hoursFrom": "9:00",
+      "hoursTo": "20:00",
+      "weeekend": "выходной"
+    },
+    {
+      "addres": "141446, Россия, Химки, Ленинградское шоссе, 29-й километр, вл1, Павильон №29-30 и №73-74",
+      "img": "https://im.wampi.ru/2022/08/03/2.jpg",
+      "hoursFrom": "9:00",
+      "hoursTo": "20:00",
+      "weeekend": "выходной"
+    },
+    {
+      "addres": "141446, Россия, Химки, Ленинградское шоссе, 29-й километр, вл1, Павильон №14-15 и №58-59",
+      "img": "https://ie.wampi.ru/2022/08/03/3.jpg",
+      "hoursFrom": "9:00",
+      "hoursTo": "20:00",
+      "weeekend": "выходной"
+    },
+    {
+      "addres": "141554  Россия, Московская область, Солнечногорский городской округ, д.Коньково, д. 99 Павильон №1",
+      "img": "https://im.wampi.ru/2022/08/03/1.jpg",
+      "hoursFrom": "9:00",
+      "hoursTo": "20:00",
+      "weeekend": "выходной"
+    },
+    {
+      "addres": "141554  Россия, Московская область, Солнечногорский городской округ, д.Коньково, д. 99 Павильон №1",
+      "img": "https://im.wampi.ru/2022/08/03/1.jpg",
+      "hoursFrom": "9:00",
+      "hoursTo": "20:00",
+      "weeekend": "выходной"
+    }
+  ],
+  "footer": [
+    { "name": "info", 
+    "children": [
+      { "name": "Доставка", "href": "/contact" },
+      { "name": "Оплата", "href": "/delivery" },
+      { "name": "Производители", "href": "/items"},
+      { "name": "Подарочные сертификаты", "href": "/delivery" },
+      { "name": "Партнерская программа", "href": "/delivery" },
+      { "name": "Акции", "href": "/" },
+      { "name": "Все товары", "href": "/items" }]
+    },
+    { "name": "infoUser", "children": ["Личный кабинет", "История заказов", "Избранное", "Рассылка"] },
+    { "name": "infoSupport", "children": ["Возврат товара"] }
+  ]
+}
