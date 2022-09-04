@@ -1,0 +1,330 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;900&family=Montserrat:wght@700&display=swap');
+
+:root {
+    --text-size-64: 4em;
+    --text-size-36: 2.25em;
+    --text-size-24: 1.5em;
+    --text-size-18: 1.125em;
+    --text-size-16: 1em;
+    --text-size-14: 0.875em;
+    --text-size-12: 0.75em;
+    --text-line-height: 1.2;
+    --color-blue: #1074EB;
+    --color-yellow: #FF9900;
+    --color-red: #ef5959;
+    --color-black: #383838;
+    --color-dark-gray: #9C9C9C;
+    --color-gray: #C9C9C9;
+    --color-lite-gray: #F7F7F7;
+    --color-white: #FFFFFF;
+    --border-radius-3px: 5px;
+    --border-radius-50per: 50%;
+    --select-focus: #1074EB;
+  }
+
+*,
+*::before,
+*::after{
+    font-family: 'Lato', sans-serif;
+    color: var( --color-black);
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 19px;
+}
+input, input:hover, input:visited, input:focus, button {
+    outline: none;
+    border: none;
+}
+ul,li{
+    list-style: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    appearance: none;
+}
+
+.content{
+    max-width: 1172px;
+    width: 100%;
+    padding: 0 1rem;
+    margin: 0 auto;
+}
+
+.decor-line{
+    width: 100%;
+    height: 1px;
+    background-color: var(--color-dark-gray);
+    &--margin--10px{
+        margin: 10px 0;
+    }
+}
+.spacer{
+    &--100px{
+        height: 100px;
+    }
+    &--67px{
+        height: 67px;
+    }
+    &--50px{
+        height: 50px;
+    }
+    &--35px{
+        height: 35px;
+    }
+    &--30px{
+        height: 30px;
+    }
+    &--20px{
+        height: 20px;
+    }
+    &--10px{
+        height: 10px;
+    }
+}
+.insert {
+    &--125px{
+        width: 125px;
+    }
+}
+// style text
+.text{
+    &-64 {
+        font-size: var(--text-size-64);
+        line-height: var(--text-line-height);
+    }
+    &-36 {
+        font-size: var(--text-size-36);
+        line-height: var(--text-line-height);
+    }
+    &-24 {
+        font-size: var(--text-size-24);
+        line-height: var(--text-line-height);
+    }
+    &-18 {
+        font-size: var(--text-size-18);
+        line-height: var(--text-line-height);
+    }
+    &-16 {
+        font-size: var(--text-size-16);
+        line-height: var(--text-line-height);
+    }
+    &-14 {
+        font-size: var(--text-size-14);
+        line-height: var(--text-line-height);
+    }
+    &-12 {
+        font-size: var(--text-size-12);
+        line-height: var(--text-line-height);
+    }
+}
+.--bold{
+    font-weight: 500;
+}
+.--bold-900{
+    font-weight: 900;
+}
+// cancellation of standard styles
+.none{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline: none;
+}
+// style color
+.--blue {
+    color: var(--color-blue);
+}
+.--yellow {
+    color: var(--color-yellow);
+}
+.--red {
+    color: var(--color-red);
+}
+.--black {
+    color: var(--color-black);
+}
+.--dark-gray {
+    color: var(--color-dark-gray);
+}
+.--gray{
+    color: var(--color-gray);
+}
+.--lite-gray {
+    color: var(--color-lite-gray);
+}
+.--white {
+    color: var(--color-white);
+}
+//style background
+.bg{
+    &--blue{
+        background-color: var(--color-blue);
+    }
+    &--yellow {
+        background-color: var(--color-yellow);
+    }
+    &--red {
+        background-color: var(--color-red);
+    }
+    &--black {
+        background-color: var(--color-black);
+    }
+    &--dark-gray {
+        background-color: var(--color-dark-gray);
+    }
+    &--gray{
+        background-color: var(--color-gray);
+    }
+    &--lite-gray {
+        background-color: var(--color-lite-gray);
+    }
+    &--white {
+        background-color: var(--color-white);
+    }
+}
+// border style
+.br{
+    &--3px{
+        border-radius: var(--border-radius-3px);
+    }
+    &--50p{
+        border-radius: var(--border-radius-50per);
+    }
+}
+// style position element
+.--flex{
+    display: flex;
+}
+.--inline{
+    display: inline;
+}
+.--inline-block {
+    display: inline-block;
+}
+.--space-betwen{
+    justify-content: space-between;
+}
+.item-circular-control{
+    position: relative;
+    height: 14px;
+    width: 14px;
+    border-radius: var(--border-radius-50per);
+    background-color: var(--color-blue);
+    display: inline-block;
+    margin-right: 1rem;
+    &::after{
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      background-color: var(--color-white);
+      opacity: 0.7;
+      transition: all ease 0.3s;
+    }
+    &.active{
+      &::after{
+        opacity: 0;
+      }
+    }
+}
+// button stale
+.bt {
+    
+    border-radius: var(--border-radius-3px);
+    color: var(--color-white);
+    padding: 1rem;
+    cursor: pointer;
+    position: relative;
+    &::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: var(--color-white);
+        opacity: 0;
+        transition: all ease 0.3s;
+    }
+    &:hover{
+        &::after {
+            opacity: 0.3;
+        }
+    }
+    &.disabled{
+        &::after {
+            opacity: 0.3;
+            cursor: no-drop;
+        }
+    }
+    &--blue{
+        background-color: var(--color-blue);
+    }
+    &--yellow{
+        background-color: var(--color-yellow);
+    }
+    &--red{
+        background-color: var(--color-red);
+    }
+    &--black{
+        background-color: var(--color-black);
+    }
+}
+.ml{
+    &-075{
+        margin-left: 0.75rem;
+    }
+    &-1{
+        margin-left: 1rem;
+    }
+    &-2{
+        margin-left: 2rem;
+    }
+}
+.mb{
+    &-0625{
+        margin-bottom: 0.625rem;
+    }
+    &-100{
+        margin-bottom: 1rem;
+    }
+    &-125{
+        margin-bottom: 1.25rem;
+    }
+    &-150{
+        margin-bottom: 1.5rem;
+    }
+    &-200{
+        margin-bottom: 2rem;
+    }
+    &-1625{
+        margin-bottom: 1.625rem;
+    }
+}
+.mtb{
+    &-1{
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    &-0675{
+        margin-top: 0.675rem;
+        margin-bottom: 0.675rem;
+    }
+
+}
+@media screen and (max-width: 980px) {
+.content{
+    max-width: 880px;
+}
+}
+@media screen and (max-width: 600px) {
+    .content{
+       padding: 0.5rem;
+    }
+}
